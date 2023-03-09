@@ -1,0 +1,277 @@
+.sectionTwo{
+    display: flex;
+    background-image: url("images/index-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 70px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    vertical-align: center;
+}
+
+.sectionTwo button{
+    border-radius: 25px;
+    width: fit-content;
+    height: fit-content;
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    padding: 10px 30px 10px 30px ;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.sectionTwo h1{
+    color: white;
+    font-size: xx-large;
+}
+
+.sectionTwo h3{
+    color: white;
+    font-size: large;
+}
+
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    column-gap: 20px;
+}
+
+li{
+    float: left;
+}
+.navDiv img{
+    height: 65px;
+    width: fit-content;
+}
+a{
+    font-weight: bold !important;
+    font-size: small !important;
+}
+.ulFrame{
+    min-width: fit-content !important;
+}
+.ulFrame ul{
+    gap: 15px;
+    padding-left: 15px;
+}
+.firstButton{
+    min-width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    border-style: none;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.08);
+    margin-left: 10%;
+    color: white;
+    font-size: small;
+}
+
+.rightFrame{
+    min-width: 100px;
+    height: 20px;
+    display: flex;
+    background-color: blue;
+}
+nav{
+    justify-content: space-between !important;
+    gap: 5%;
+}
+
+.firstButton img{
+    height: 30px;
+    width: 30px;
+}
+
+.section-frame{
+    flex-direction: row;
+    display: flex;
+    gap: 25px;
+    padding-left: 40px;
+}
+
+.section-frame section{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    text-align: center;
+    align-items: center;
+    font-size: xx-small;
+}
+.section-frame img{
+    height: 20px;
+    width: 20px;
+}
+
+nav{
+    padding-top: 10px !important;
+    padding-bottom: 5px !important;
+}
+.navFrame{
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.05);
+}
+
+.sliderFrame{
+    background-image: url("images/shield.png");
+    z-index: -40;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*opacity: 0.8; */
+    display: flex;
+    padding-top: 60px;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    flex-direction: row;
+    width: 100%;
+    gap: 17.5px;
+}
+
+.sliderFrame article{
+    display: flex;
+    min-height: 380px;
+    max-width: 200px;
+    min-width: 200px;
+    border-radius: 5px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    box-shadow: -1px -1px 1px rgba(0,0,0,0.05);
+    border-width: 2px;
+    flex-direction: column;
+    padding-top: 60px;
+    gap: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    background-color: white;
+}
+.sliderFrame article img{
+    width: 180px;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.sliderFrame article p{
+    font-size: x-small;
+    font-weight: bold;
+    color: #017da2;
+    margin-bottom: 0px !important;
+}
+.sliderFrame article label{
+    font-size: x-small;
+    margin-top: 0px;
+}
+.sliderFrame article button{
+    width: 150px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    border-style: none;
+    border-radius: 15px;
+    font-size: x-small;
+}
+
+.sliderFrame article button:hover{
+    background-color: red;
+}
+
+.sliderBtns{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 4px;
+    padding-bottom: 40px;
+
+}
+.sliderBtns button:hover{
+    background-color:#0bc3e3;
+}
+
+.sliderBtns button{
+    border-radius: 50px;
+    align-items: flex-end;
+
+    border-radius: 25px;
+    justify-content: space-evenly;
+    height: 15px;
+    width: 15px;
+    background-color: #1642a1;
+    border-style: none;
+
+}
+
+.sectionThree{
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    height: 60vh;
+    padding-top: 60px;
+}
+
+.sectionThree h3{
+    color: white;
+    text-align: center;
+}
+
+.sectionThree h6{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.sectionFour{
+    display: flex;
+    background-image: url("images/watermark.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 70px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    vertical-align: center;
+}
+
+.sectionFour button{
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    border-style: none;
+    border-radius: 0.5rem;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    padding: 1rem 3rem 1rem 3rem ;
+    font-size: small;
+    margin-top: 1rem;
+}
+
+.sectionFive{
+    display: flex;
+    background-image: url("images/c-prot-awards.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 70px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    vertical-align: center;
+}
