@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94.01 84.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-5);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="60.17" y1="31.04" x2="87.66" y2="31.04" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#0078a6"/>
+      <stop offset="1" stop-color="#16429e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="42.17" x2="94.01" y2="42.17" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="67.35" y1="30.49" x2="83.94" y2="30.49" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="9.38" y1="11.88" x2="37.41" y2="11.88" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="9.38" y1="19.98" x2="28.67" y2="19.98" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="9.38" y1="28.08" x2="46.87" y2="28.08" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="9.38" y1="36.18" x2="41.34" y2="36.18" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="9.38" y1="44.12" x2="41.34" y2="44.12" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="9.38" y1="52.18" x2="36.6" y2="52.18" xlink:href="#linear-gradient"/>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-977.83" y="-812.9" width="490.78" height="894.9"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="cls-2" d="m66.88,44.63c3.09,2.24,6.12,3.6,6.25,3.66.25.11.51.17.79.17s.54-.06.78-.17c.13-.06,3.16-1.42,6.25-3.66,1.86-1.35,3.36-2.74,4.45-4.13,1.5-1.91,2.26-3.86,2.26-5.79v-16.07c0-.73-.41-1.39-1.06-1.72-.28-.14-6.6-3.29-12.69-3.29s-12.42,3.16-12.69,3.29c-.65.33-1.06.99-1.06,1.72v16.07c0,1.93.76,3.88,2.26,5.79,1.09,1.39,2.59,2.78,4.45,4.13Zm-4.92-25.99c0-.05.03-.1.08-.12.25-.13,6.21-3.1,11.88-3.1s11.63,2.97,11.88,3.1h0s.08.07.08.12v16.07c0,1.52-.63,3.1-1.88,4.69-.99,1.26-2.36,2.53-4.09,3.78-2.94,2.13-5.81,3.42-5.94,3.48-.04.02-.08.02-.11,0-.12-.05-2.99-1.35-5.93-3.48-1.73-1.25-3.1-2.52-4.09-3.78-1.25-1.59-1.88-3.17-1.88-4.69v-16.07Z"/>
+    <path class="cls-8" d="m92.01,0H2C.9,0,0,.9,0,2v66.52c0,1.1.9,2,2,2h35.05l-4.35,6.32h-7.21c-.57,0-1.03.46-1.03,1.03v5.44c0,.57.46,1.03,1.03,1.03h42.96c.57,0,1.03-.46,1.03-1.03v-5.44c0-.57-.46-1.03-1.03-1.03h-7.35c-.04-.18-.1-.35-.21-.51l-4-5.82h35.11c1.1,0,2-.9,2-2V2c0-1.1-.9-2-2-2Zm-24.3,78.62v3.94H26.24v-3.94h41.46Zm-8.62-1.78h-24.22l4.35-6.32h15.53l4.35,6.32Zm32.07-9.18H2.85v-5.27h88.3v5.27Zm0-7.05H2.85V2.85h88.3v57.75Z"/>
+    <path class="cls-6" d="m72.54,36.85c.28.28.74.28,1.02,0l9.85-9.85c.7-.7.7-1.85,0-2.55-.7-.7-1.85-.7-2.55,0l-7.81,7.81-2.63-2.63c-.7-.7-1.85-.7-2.55,0-.7.7-.7,1.85,0,2.55l4.67,4.67Z"/>
+    <rect class="cls-7" x="9.38" y="10.52" width="28.03" height="2.72" rx=".81" ry=".81"/>
+    <rect class="cls-11" x="9.38" y="18.62" width="19.29" height="2.72" rx=".81" ry=".81"/>
+    <rect class="cls-9" x="9.38" y="26.72" width="37.5" height="2.72" rx=".81" ry=".81"/>
+    <rect class="cls-10" x="9.38" y="34.82" width="31.97" height="2.72" rx=".81" ry=".81"/>
+    <rect class="cls-4" x="9.38" y="42.76" width="31.97" height="2.72" rx=".81" ry=".81"/>
+    <rect class="cls-5" x="9.38" y="50.82" width="27.22" height="2.72" rx=".81" ry=".81"/>
+  </g>
+  <g class="cls-3">
+    <image width="1920" height="1080" transform="translate(-1503.01 -812.9) scale(.85)" xlink:href="C-PROT WEB/Fd Series Hd Outputs 1.png"/>
+  </g>
+</svg>

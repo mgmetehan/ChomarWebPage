@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46.96 79.66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="39.83" x2="46.96" y2="39.83" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#0078a6"/>
+      <stop offset="1" stop-color="#16429e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="9.02" y1="19.79" x2="37.94" y2="19.79" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="15.46" y1="36.23" x2="31.5" y2="36.23" xlink:href="#linear-gradient"/>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="-580.47" y="-815.24" width="490.78" height="894.9"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="cls-2" d="m45.31,79.66H1.65c-.91,0-1.65-.74-1.65-1.65V1.65C0,.74.74,0,1.65,0h43.65C46.22,0,46.96.74,46.96,1.65v76.36c0,.91-.74,1.65-1.65,1.65Zm-42.94-2.36h42.24V2.36H2.36v74.94Z"/>
+    <path class="cls-5" d="m36.47,32.24H10.49c-.81,0-1.47-.66-1.47-1.47V8.81c0-.81.66-1.47,1.47-1.47h25.98c.81,0,1.47.66,1.47,1.47v21.96c0,.81-.66,1.47-1.47,1.47Zm-25.35-2.1h24.72V9.44H11.12v20.7Z"/>
+    <path class="cls-4" d="m31.08,38.06h-15.21c-.23,0-.42-.19-.42-.42v-2.83c0-.23.19-.42.42-.42h15.21c.23,0,.42.19.42.42v2.83c0,.23-.19.42-.42.42Zm-15.05-.58h14.88v-2.51h-14.88v2.51Z"/>
+  </g>
+  <g class="cls-3">
+    <image width="1920" height="1080" transform="translate(-1105.65 -815.24) scale(.85)" xlink:href="C-PROT WEB/Fd Series Hd Outputs 1.png"/>
+  </g>
+</svg>
