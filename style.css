@@ -1,3 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s ease;
+}
+
+:root {
+    --main-color: white;
+    --black-color: #0e0e0e;
+    --border: 0.1rem solid rgba(255, 255, 255, 0.4);
+}
+
+html {
+    font-size: 62.5%;
+    scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+html::-webkit-scrollbar {
+    width: 0.8rem;
+    background-color: white;
+}
+
+html::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+html::-webkit-scrollbar-thumb {
+    border-radius: 3rem;
+    background-color: var(--black-color);
+}
+
+body {
+    background-color: var(--main-color);
+    overflow-x: visible;
+}
+
 .licance{
     font-size: xx-large;
     color: darkblue;
@@ -270,4 +316,45 @@ nav {
     border-style: none;
     border-radius: 15px;
     font-size: x-small;
+}
+
+.footer{
+    background-image: linear-gradient(to right, #1642a1, #0bc3e3);
+    color : white;
+    display: flex;
+    height: 70vh;
+    padding-top: 70px;
+    width: 100%;
+    flex-direction: column;
+    vertical-align: center;
+}
+
+.footer-icon{
+    padding-top: 1rem;
+    color: #0e0e0e;
+}
+
+.footer-icon p{
+    font-size: xx-large;
+    color: darkblue;
+    font-weight: bold;
+    text-align: center;
+}
+.footer-icon a{
+    padding: 2rem;
+}
+
+.footer-icon img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.footer-end span{
+    color: white;
+    padding: 2rem;
+}
+
+.copy-right{
+    padding: 3rem;
+    color: white;
 }
