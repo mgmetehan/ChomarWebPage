@@ -44,7 +44,7 @@ body {
     overflow-x: visible;
 }
 
-.licance{
+.licance {
     font-size: xx-large;
     color: darkblue;
     font-weight: bold;
@@ -63,19 +63,21 @@ body {
     flex-direction: column;
     vertical-align: center;
 }
-.sectionSixText{
+
+.sectionSixText {
     color: white;
     text-align: center;
     padding-bottom: 0.1rem;
     font-size: xx-large;
 
 }
-.sectionSixBox{
+
+.sectionSixBox {
     padding-top: 2rem;
     border-top: gray 2px solid;
 }
 
-.sectionSixBox img{
+.sectionSixBox img {
     width: 4rem;
 }
 
@@ -318,9 +320,9 @@ nav {
     font-size: x-small;
 }
 
-.footer{
-    background-image: linear-gradient(to right, #1642a1, #0bc3e3);
-    color : white;
+.footer {
+    background-image: linear-gradient(to right, #0bc3e3, #1642a1);
+    color: white;
     display: flex;
     height: 70vh;
     padding-top: 70px;
@@ -329,32 +331,33 @@ nav {
     vertical-align: center;
 }
 
-.footer-icon{
+.footer-icon {
     padding-top: 1rem;
     color: #0e0e0e;
 }
 
-.footer-icon p{
+.footer-icon p {
     font-size: xx-large;
     color: darkblue;
     font-weight: bold;
     text-align: center;
 }
-.footer-icon a{
+
+.footer-icon a {
     padding: 2rem;
 }
 
-.footer-icon img{
+.footer-icon img {
     height: 5rem;
     width: 5rem;
 }
 
-.footer-end span{
+.footer-end span {
     color: white;
     padding: 2rem;
 }
 
-.copy-right{
+.copy-right {
     padding: 3rem;
     color: white;
 }
